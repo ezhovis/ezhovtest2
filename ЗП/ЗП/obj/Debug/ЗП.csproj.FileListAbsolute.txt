@@ -1,0 +1,8 @@
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\bin\Debug\ЗП.exe.config
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\bin\Debug\ЗП.exe
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\bin\Debug\ЗП.pdb
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\obj\Debug\ЗП.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\obj\Debug\ЗП.Properties.Resources.resources
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\obj\Debug\ЗП.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\obj\Debug\ЗП.exe
+C:\Users\Igor\Desktop\ЗарПл\ЗП\ЗП\obj\Debug\ЗП.pdb

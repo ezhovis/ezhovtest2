@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<MyEmployeeCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employees>
+    <employee xsi:type="EmpFix">
+      <id>1</id>
+      <fullname>Иванов Иван Иванович</fullname>
+      <wage>15000</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpTime">
+      <id>2</id>
+      <fullname>Кондратьев Ким Антонович</fullname>
+      <wage>15000</wage>
+      <method>Повременная ОТ</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpFix">
+      <id>3</id>
+      <fullname>Капустин Ефим Германнович</fullname>
+      <wage>15000</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpFix">
+      <id>4</id>
+      <fullname>Бирюков Егор Якунович</fullname>
+      <wage>11111</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpTime">
+      <id>5</id>
+      <fullname>Белов Арсений Улебович</fullname>
+      <wage>11300</wage>
+      <method>Повременная ОТ</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpTime">
+      <id>6</id>
+      <fullname>Агафонов Парфений Евгеньевич</fullname>
+      <wage>22010</wage>
+      <method>Повременная ОТ</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpFix">
+      <id>7</id>
+      <fullname>Фёдоров Созон Артёмович</fullname>
+      <wage>11111</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpTime">
+      <id>8</id>
+      <fullname>Фёдоров Абрам Артёмович</fullname>
+      <wage>12222</wage>
+      <method>Повременная ОТ</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpFix">
+      <id>9</id>
+      <fullname>Симонов Авдей Алексеевич</fullname>
+      <wage>12222</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+    <employee xsi:type="EmpFix">
+      <id>10</id>
+      <fullname>Капко Иван Петрович</fullname>
+      <wage>15000</wage>
+      <method>Фиксированная ЗП</method>
+      <Salary>0</Salary>
+    </employee>
+  </employees>
+</MyEmployeeCollection>
